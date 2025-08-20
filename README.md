@@ -35,7 +35,7 @@ Installation / Usage Instructions
 2. 
    bash
    
-   git clone https://github.com/San999-dev/otp-verification.git
+   git clone https://github.com/San999-dev/OTP-Auth.git
 
    Technologies Used
    ## Tech Stack
