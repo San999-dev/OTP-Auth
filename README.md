@@ -17,7 +17,7 @@ A simple OTP-based login, signup, and password reset system built with HTML, Tai
 
 <img width="345" height="419" alt="Screenshot 2025-08-20 220305" src="https://github.com/user-attachments/assets/cb8f4c9b-1d8c-4cd6-85d1-5c46b9d0bd14" />
 
-Features
+
 ## Features
 - User Signup & Login
   
