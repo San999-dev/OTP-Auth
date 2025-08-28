@@ -33,8 +33,6 @@ Installation / Usage Instructions
 ## Installation
 1. Clone the repo:
 2. 
-   bash
-   
    git clone https://github.com/San999-dev/OTP-Auth.git
 
    Technologies Used
